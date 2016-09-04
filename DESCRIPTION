@@ -7,4 +7,7 @@ Authors@R: person("Albert", "Cheng", email = "albert.hk.cheng@gmail.com",
 Description: Provides functions which help to do horse racing analysis
 License: GPL-3
 LazyData: TRUE
-Imports: dplyr (>= 0.5.0)
+Imports:
+    dplyr (>= 0.5.0)
+RoxygenNote: 5.0.1
+Suggests: testthat
