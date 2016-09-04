@@ -4,7 +4,7 @@ Title: Horse Racing Analysis Tool
 Version: 0.1.0
 Authors@R: person("Albert", "Cheng", email = "albert.hk.cheng@gmail.com",
     role = c("aut","cre"))
-Description: Provides functions which help to do horse racing analysis
+Description: Provides functions which help to do horse racing analysis.
 License: GPL-3
 LazyData: TRUE
 Imports:
