@@ -8,7 +8,8 @@
 #' odds_to_prob(c(2.0,5.0,11.2))
 #' @export
 #'
-#' TODO: add odd format (1:2 / 3.0)
+
+# TODO: add odd format (1:2 / 3.0)
 odds_to_prob <- function(odds){
   prob <- 1 / odds
   return(prob / sum(prob))
