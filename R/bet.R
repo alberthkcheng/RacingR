@@ -28,3 +28,17 @@ win_odds_to_q_odds <- function(odds, horse1, horse2){
   qprob <- prob[horse1] * prob_ex1[horse2] + prob[horse2] * prob_ex2[horse1]
   1/qprob
 }
+
+win_odds_to_double_odds <- function(odds1, odds2, horse1, horse2){
+
+
+  # 1st prize
+
+  # 2nd prize
+}
+
+#' Find arbitrage
+#'
+#'
+#'
+#'
