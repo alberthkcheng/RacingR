@@ -18,4 +18,3 @@ The probablity
 \examples{
 odds_to_prob(c(2.0,5.0,11.2))
 }
-
